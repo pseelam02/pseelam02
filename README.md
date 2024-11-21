@@ -1,9 +1,9 @@
 ## Hi there I am Pranav👋
-a passionate computer science enthusiast currently pursuing my M.S. in Computer Science with a concentration in Systems Engineering at the Georgia Institute of Technology. My interests lie in Deep Learning and Systems Engineering.
+a passionate computer science enthusiast currently pursuing my M.S. in Computer Science with a concentration in Computing Systems at the Georgia Institute of Technology. My interests lie in all things related to Deep Learning, Software and Systems Engineering.
 
-I completed my undergraduate studies in Data Science at the University of California, Berkeley, where I fell in love with the idea of sharpening and growing my mind every day, little by little.
+I completed my undergraduate studies in Data Science at the University of California, Berkeley, where I fell in love with the idea of becoming a better version of yourself everyday, little by little.
 
-I'm always eager to meet new people who share a passion for computer science. Feel free to reach out—I'd love to chat!
+I'm always eager to meet new people who share a passion for computer science. Feel free to reach out to my linkedin—I'd love to chat!
 
 ### Work Experience
 #### Deep Learning Applied Systems Intern @ Rivian(September 2023-December 2023):
