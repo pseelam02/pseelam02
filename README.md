@@ -1,4 +1,9 @@
 ## Hi there 👋
+Hi, I'm Pranav—a passionate computer science enthusiast currently pursuing my M.S. in Computer Science with a concentration in Systems Engineering at the Georgia Institute of Technology. My interests lie in Deep Learning and Systems Engineering.
+
+I completed my undergraduate studies in Data Science at the University of California, Berkeley, where I fell in love with the idea of sharpening and growing my mind every day, little by little.
+
+I'm always eager to meet new people who share a passion for computer science. Feel free to reach out—I'd love to chat!
 
 <!--
 **pseelam02/pseelam02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
