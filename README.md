@@ -7,10 +7,10 @@ Go Bears🐻!
 I'm always eager to meet new people who share a passion for computer science. Feel free to reach out to my linkedin!
 
 ### My Work Experience
-#### Deep Learning Applied Systems Intern @ Rivian(September 2023-December 2023):
+#### Deep Learning Applied Systems Intern @ Rivian(September 2024-December 2024):
 - Continued what I did in the summer
 
-#### Software Engineering Intern @ Rivian(May 2023-August 2023):
+#### Software Engineering Intern @ Rivian(May 2024-August 2024):
 - Wrote a lot of C++, Python
 - My favorite learning experience so far
 - Learned a lot about deep learning and its application
