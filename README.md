@@ -8,10 +8,10 @@ I'm always eager to meet new people who share a passion for computer science. Fe
 
 
 ### My Work Experience
-#### Deep Learning Applied Systems Intern @ Rivian(September 2024-December 2024):
+#### Deep Learning Applied Systems Intern @ Rivian and Volkswagen Group Technologies(September 2024-December 2024):
 - Continued what I did in the summer
 
-#### Software Engineering Intern @ Rivian(May 2024-August 2024):
+#### Software Engineering Intern @ Rivian Automotive(May 2024-August 2024):
 - Wrote a lot of C++, Python
 - My favorite learning experience so far
 - Learned a lot about deep learning and its application
@@ -21,7 +21,7 @@ I'm always eager to meet new people who share a passion for computer science. Fe
 - Met so many extremely talented people
 - Made some really cool life long friends :)
 
-#### Software Systems Engineering Intern @ Qualcomm(May 2023-August 2023):
+#### Software Systems Engineering Intern @ Qualcomm Incorperated(May 2023-August 2023):
 - Wrote a lot of C
 - My first real industry experience
 - I got to learn more about the software engineering development process
