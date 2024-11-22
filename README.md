@@ -27,7 +27,7 @@ I'm always eager to meet new people who share a passion for computer science. Fe
 - Learned a lot about embedded systems engineering
 
 
-###Other things I like
+### Other things I like
 - Hanging out with my friends and family
 - Eating Food
 - Cooking Food
