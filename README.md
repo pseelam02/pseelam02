@@ -9,6 +9,8 @@ I'm always eager to meet new people who share a passion for computer science. Fe
 ### My Work Experience
 #### Deep Learning Applied Systems Intern @ Rivian(September 2024-December 2024):
 - Continued what I did in the summer
+-  ![image](https://github.com/user-attachments/assets/2f507d68-3384-4c7b-abb5-980d82ad9955)
+
 
 #### Software Engineering Intern @ Rivian(May 2024-August 2024):
 - Wrote a lot of C++, Python
