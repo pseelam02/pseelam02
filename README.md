@@ -1,4 +1,4 @@
-## Hi there I am Pranav👋,
+## Hey there I am Pranav,
 I am currently pursuing my M.S. in Computer Science with a concentration in Computing Systems at the Georgia Institute of Technology🐝. My interests lie in all things related to Deep Learning, Software and Systems Engineering.
 
 I completed my bachelors in Data Science at the University of California, Berkeley.
