@@ -9,10 +9,10 @@ I'm always eager to meet new people who share a passion for computer science. Fe
 
 ### My Work Experience
 #### Software Engineering Intern @ Rivian Automotive (September 2024-December 2024):
-- Wrote more C++ and Python for the generative AI team
+- Wrote more C++ and Python 
 
 #### Software Engineering Intern @ Rivian Automotive (May 2024-August 2024):
-- Wrote a lot of C++ and Python for the generative AI team
+- Wrote a lot of C++ and Python
 
 #### Software Systems Engineering Intern @ Qualcomm Incorperated (May 2023-August 2023):
 - Wrote a lot of C for the power management embedded systems team
