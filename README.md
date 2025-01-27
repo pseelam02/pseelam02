@@ -4,9 +4,6 @@ I am currently pursuing my M.S. in Computer Science with a concentration in Comp
 I completed my bachelors in Data Science at the University of California, Berkeley.
 Go Bears🐻!
 
-I'm always eager to meet new people who share a passion for computer science. Feel free to reach out to my linkedin!
-
-
 ### My Work Experience
 #### Software Engineering Intern @ Rivian Automotive (September 2024-December 2024):
 - Wrote more C++ and Python 
