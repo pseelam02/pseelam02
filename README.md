@@ -15,7 +15,7 @@ I'm always eager to meet new people who share a passion for computer science. Fe
 - Wrote a lot of C++ and Python
 
 #### Software Systems Engineering Intern @ Qualcomm Incorperated (May 2023-August 2023):
-- Wrote a lot of C for the power management embedded systems team
+- Wrote a lot of C
 
 ### Additional things I enjoy doing
 - Hanging out with my friends and family
