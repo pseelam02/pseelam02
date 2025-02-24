@@ -21,3 +21,4 @@ Go Bears🐻!
 - Coffee
 - Better Call Saul/Breaking Bad
 - One Piece
+- Naruto
