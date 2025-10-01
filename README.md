@@ -5,6 +5,9 @@ I completed my bachelors in Data Science at the University of California, Berkel
 Go Bears🐻!
 
 ### My Work Experience
+####Chief Software Officer @ 3e8 Robotics
+- Just building
+
 #### Software Engineering Intern @ Rivian Automotive (September 2024-December 2024):
 - Wrote more C++ and Python 
 
