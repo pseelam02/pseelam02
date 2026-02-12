@@ -2,16 +2,12 @@
 
 ### My Work Experience
 #### Chief Software Officer @ 3e8 Robotics
-- Just building
 
-#### Software Engineering Intern @ Rivian Automotive (September 2024-December 2024):
-- Wrote more C++ and Python 
+#### Software Engineering Intern @ Rivian Automotive (September 2024-December 2024)
 
-#### Software Engineering Intern @ Rivian Automotive (May 2024-August 2024):
-- Wrote a lot of C++ and Python
+#### Software Engineering Intern @ Rivian Automotive (May 2024-August 2024)
 
-#### Software Systems Engineering Intern @ Qualcomm Incorperated (May 2023-August 2023):
-- Wrote a lot of C
+#### Software Systems Engineering Intern @ Qualcomm Incorperated (May 2023-August 2023)
 
 ### Additional things I enjoy doing
 - Hanging out with my friends and family
