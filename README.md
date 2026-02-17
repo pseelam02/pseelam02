@@ -1,7 +1,7 @@
 ## Hey there I am Pranav,
 
 ### My Work Experience
-#### Chief Software Officer @ 3e8 Robotics
+#### Software Engineer @ 3e8 Robotics
 
 #### Software Engineering Intern @ Rivian Automotive (September 2024-December 2024)
 
