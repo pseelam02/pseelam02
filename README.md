@@ -8,3 +8,7 @@
 #### Software Engineering Intern @ Rivian Automotive (May 2024-August 2024)
 
 #### Software Systems Engineering Intern @ Qualcomm Incorperated (May 2023-August 2023)
+
+
+###
+Feather.cv -> The fastest ai resume editor in the world. 
