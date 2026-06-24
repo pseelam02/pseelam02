@@ -1,7 +1,7 @@
 ## Hey there I am Pranav,
 
 ### My Work Experience
-#### Co-founder and CTO @ Blueprint
+#### Co-founder and CTO @ Blueprint.am
 
 #### Software Engineering Intern @ Rivian Automotive (September 2024-December 2024)
 
