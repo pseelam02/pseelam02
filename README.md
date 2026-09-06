@@ -7,7 +7,7 @@
 I build robots, squeeze AI onto hardware, and open documentation tabs like they’re a renewable resource.
 
 <a href="https://tenor.com/view/naruto-training-hardwork-gama-sagemode-gif-18461897">
-  <img src="https://media1.tenor.com/m/hhodn2t5rpoAAAAC/naruto-training.gif" width="320" alt="Naruto training hard: the energy I bring to learning something new." />
+  <img src="assets/naruto-training.gif" width="320" alt="Naruto training hard: the energy I bring to learning something new." />
 </a>
 
 **Training arc: ongoing. Final boss: understanding what’s actually happening.**
@@ -38,7 +38,7 @@ Some people collect sneakers. I collect questions that become weekend projects.
 - **Developer tools:** Can we make the next person’s debugging session less of an archaeological expedition?
 
 <p align="center">
-  <a href="https://giphy.com/gifs/JIX9t2j0ZTN9S"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260" alt="A cat furiously typing at a laptop." /></a>
+  <a href="https://giphy.com/gifs/JIX9t2j0ZTN9S"><img src="assets/typing-cat.gif" width="200" alt="A cat furiously typing at a laptop." /></a>
   <br />
   <em>Me: “I’ll just look up one thing.” Also me: implementing a smaller version to understand it.</em>
 </p>
@@ -94,19 +94,19 @@ No mastery percentages. I refuse to claim I am 87% Python. What would the remain
 **1. Read the docs. Understand the idea. Become mildly unstoppable.**
 
 <p align="center">
-  <a href="https://giphy.com/gifs/9Ai5dIk8xvBm0"><img src="https://media.giphy.com/media/9Ai5dIk8xvBm0/giphy.gif" width="280" alt="An animated coding scene: entering the implementation phase." /></a>
+  <a href="https://giphy.com/gifs/9Ai5dIk8xvBm0"><img src="assets/coding.gif" width="200" alt="An animated coding scene: entering the implementation phase." /></a>
 </p>
 
 **2. Meet an edge case. Discover that the edge is most of the case.**
 
 <p align="center">
-  <a href="https://giphy.com/gifs/13HgwGsXF0aiGY"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="A chaotic programming reaction: the debugging phase has arrived." /></a>
+  <a href="https://giphy.com/gifs/13HgwGsXF0aiGY"><img src="assets/debugging.gif" width="200" alt="A chaotic programming reaction: the debugging phase has arrived." /></a>
 </p>
 
 **3. Add the regression test. Fix the bug. Accept a deeply unreasonable amount of joy.**
 
 <p align="center">
-  <a href="https://giphy.com/gifs/111ebonMs90YLu"><img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="260" alt="An enthusiastic thumbs-up to celebrate getting things working." /></a>
+  <a href="https://giphy.com/gifs/111ebonMs90YLu"><img src="assets/success.gif" width="200" alt="An enthusiastic thumbs-up to celebrate getting things working." /></a>
 </p>
 
 Repeat until “I have no idea how this works” becomes “okay, here’s the tradeoff.”
